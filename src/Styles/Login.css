@@ -1,0 +1,58 @@
+.ContentLogin {
+  background-image: url(../Images/fondo_login.jpg);
+  padding: 50px 0;
+  width: 50%;
+  border-radius: 20px;
+  background-position: center;
+  margin: 5% auto;
+}
+
+.ContentLogin h1 {
+  color: #dd973cda;
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+input {
+  padding: 10px;
+  width: 330px;
+  height: 20px;
+  border: none;
+  background: #ecf0f1ec;
+  border-radius: 12px;
+  margin: 5px;
+}
+
+.ButtonLogin {
+  padding: 10px;
+  width: 100px;
+  height: 40px;
+  border: none;
+  border-radius: 12px;
+  background: #4682b4;
+  color: #fff;
+  margin: 10px;
+  font-weight: bold;
+  opacity: 0.9;
+}
+
+.ContentLogin p {
+  padding: 5px;
+  width: 330px;
+  height: 20px;
+  border: 1px solid #ee5555;
+  background: #f0aaaa;
+  border-radius: 6px;
+  margin: 5px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
